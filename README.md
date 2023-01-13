@@ -1,6 +1,6 @@
 # Reliable Password Generator
 
-## Discription
+## Description
 
 I created Reliable Password Generator to make very secure passwords and to show my skills that I have learned at bootcamp.
 
@@ -17,7 +17,7 @@ Please click link below:
 
 ##Screenshot
 
-
+https://github.com/TerryKor/reliable-password-generator/blob/main/screen%20shot%20reliable_password_generator.png
 
 ##License
 
