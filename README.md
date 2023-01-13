@@ -13,7 +13,7 @@ allows to choose if user wants to use upper case or lower case letters, as well 
 
 Please click link below:
 
-
+https://terrykor.github.io/reliable-password-generator/
 
 ##Screenshot
 
